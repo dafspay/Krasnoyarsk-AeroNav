@@ -1,0 +1,110 @@
+LastSession	connecttype	0
+LastSession	facility	5
+LastSession	rating	2
+LastSession	tovatsim	1
+LastSession	range	149
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	SettingsfileSIL	\UNKL\Settings\TAG.txt
+Settings	SettingsfileSEL	\UNKL\Settings\ExitList.txt
+Settings	SettingsfileDEP	\UNKL\Settings\DepartureList.txt
+Settings	SettingsfileARR	\UNKL\Settings\ArrivalList.txt
+Settings	SettingsfileSYMBOLOGY	\UNKL\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\UNKL\Settings\GroundToAirList.txt
+Settings	SettingsfilePROFILE	\UNKL\Settings\LoginProfiles.txt
+Settings	SettingsfileTAGS	\UNKL\Settings\TAG.txt
+Settings	SettingsfilePLUGINS	\UNKL\Settings\Plugin.txt
+Settings	Settingsfile	\UNKL\Settings\General.txt
+Settings	SettingsfileVCCS	\UNKL\Settings\VCCS.txt
+Settings	airlines	\NavData\ICAO_Airlines.txt
+Settings	airports	\NavData\ICAO_Airports.txt
+Settings	aircraft	\NavData\ICAO_Aircraft.txt
+Settings	airways	\NavData\AIRWAY.txt
+Settings	alias	\UNKL\Settings\alias.txt
+Settings	airportcoords	\NavData\icao.txt
+Settings	SettingsfileFP	\UNKL\Settings\FPList.txt
+Settings	SettingsfileCONFLICT	\UNKL\Settings\ConflictList.txt
+Settings	SettingsfilePILOTING	\UNKL\Settings\PilotingList.txt
+Settings	SettingsfileORIGPLANE	\UNKL\Settings\OriginPlaneList.txt
+Settings	SettingsfileSTUP	\UNKL\Settings\StartupList.txt
+Settings	SettingsfileTAXIOUT	\UNKL\Settings\TaxioutList.txt
+Settings	SettingsfileTAKEOFF	\UNKL\Settings\TakeoffList.txt
+Settings	SettingsfileADCS	\UNKL\Settings\ADCSectorList.txt
+Settings	SettingsfileTAXIIN	\UNKL\Settings\TaxiinList.txt
+Settings	SettingsfileSCREEN	\UNKL\Settings\Screen.txt
+TeamSpeakVccs	TsVccsMiniControlX	1465
+TeamSpeakVccs	TsVccsMiniControlY	60
+TeamSpeakVccs	Ts3DialogLeft	651
+TeamSpeakVccs	Ts3DialogTop	129
+TeamSpeakVccs	Ts3DialogRight	1759
+TeamSpeakVccs	Ts3DialogBottom	784
+LastSession	server	AUTOMATIC
+TeamSpeakVccs	Ts3G2APtt	1900544
+TeamSpeakVccs	Ts3G2GPtt	2752512
+TeamSpeakVccs	Ts3NickName	1461151
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	PlaybackDevice	PHL 223V7 (NVIDIA High Definition Audio)
+TeamSpeakVccs	CaptureMode	Windows Audio Session
+TeamSpeakVccs	CaptureDevice	Микрофон (Microphone DQ5MF3F1)
+LastSession	atis_airport	UNOO
+LastSession	atis_letter	79
+Settings	airlines	\UNKL\ICAO\ICAO_Airlines.txt
+Settings	airports	\UNKL\ICAO\ICAO_Airports.txt
+Settings	aircraft	\UNKL\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\UNKL\NavData\icao.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	AtisFolder	\atis_demo\AtisFiles.txt
+Sounds	Sound0	\UNKL\Sounds\handoff_request.wav
+Sounds	Sound1	\UNKL\Sounds\handoff_accept.wav
+Sounds	Sound2	\UNKL\Sounds\conflict_alert.wav
+Sounds	Sound3	\UNKL\Sounds\radio_message.wav
+Sounds	Sound4	\UNKL\Sounds\private_message.wav
+Sounds	Sound5	\UNKL\Sounds\atc_message.wav
+Sounds	Sound6	\UNKL\Sounds\broadcast_message.wav
+Sounds	Sound7	\UNKL\Sounds\landline_request.wav
+Sounds	Sound8	\UNKL\Sounds\supervisor_message.wav
+Sounds	Sound9	\UNKL\Sounds\connected.wav
+Sounds	Sound10	\UNKL\Sounds\disconnected.wav
+Sounds	Sound11	\UNKL\Sounds\ongoing_request.wav
+Sounds	Sound12	\UNKL\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\UNKL\Sounds\ongoing_refused.wav
+Sounds	Sound14	\UNKL\Sounds\ongoing_manual.wav
+Sounds	Sound15	\UNKL\Sounds\new_atis.wav
+Sounds	Sound16	\UNKL\Sounds\handoff_request.wav
+Sounds	Sound17	\UNKL\Sounds\pointout.wav
+Sounds	Sound18	C:\Program Files (x86)\EuroScope\Sound\startup.wav
+LastSession	ScenarioTemplate	C:\Users\user\Desktop\UNKL_TWR.txt
+RecentFiles	Recent2	\UNKL\ASR\GND\UNKL_GND_SMR.asr
+RecentFiles	Recent3	\UNKL\ASR\GND\UOOO_GND_SMR.asr
+RecentFiles	Recent4	\UNKL\ASR\GND\UNAA_GND_SMR.asr
+RecentFiles	Recent5	\UNKL\ASR\GND\UNTT_GND_SMR.asr
+RecentFiles	Recent6	\UNKL\ASR\CTR\Novosibirsk.asr
+LastSession	atis_freq4	118000
+Plugins	Plugin0	\UNKL\Plugins\TopSky\TopSky.dll
+RecentFiles	Recent7	\UNKL\ASR\GND\UNEE_GND_SMR.asr
+Plugins	Plugin0Display0	SMR radar display
+LastSession	callsign	UNKL_R_APP
+Plugins	Plugin1	\UNKL\Plugins\vSMR-1.5\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+LastSession	atis_freq0	131300
+LastSession	atis_callsign0	UNKL_ATIS
+LastSession	atis_freq3	118000
+Plugins	Plugin2	\UNKL\Plugins\ESTimers\ESTimers.dll
+LastSession	atis_letter0	89
+LastSession	atis_url0	https://vatis.ru/atis.php?c=40F4D093&arrp=$atisairportA&arr=$arrrwy($atisairportA)&dep=$deprwy($atisairportA)&info=$atiscodeA
+LastSession	atis_message0	EMELYANOVO ATIS INFORMATION Y 1230Z EXPECT ILS ZULU APPROACH RUNWAY 29 1 1 TO 2 5 PERCENT DAMP 1 MILLIMETRES FRICTION COEFFICIENT DECIMAL 6 MEASURED BY SFT DEPARTURE RUNWAY 29 TRANSITION LEVEL 90 BIRD STRIKE HAZARD IN VICINITY OF AERODROME WIND 290 DEGREES 2 METRES PER SECOND CAVOK TEMPERATURE MINUS 12 DEW POINT MINUS 15 QNH 1021 NO SIGNIFICANT CHANGES DEPARTURE FREQUENCY 122.0 ACKNOWLEDGE ATIS INFORMATION Y
+Plugins	Plugin2Display0	SMR radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Settings	sector	\UNKL-Development-Package_20240127120225-240101-0010.sct
+RecentFiles	Recent8	\UNKL\ASR\GND\UNWW_GND_SMR.asr
+LastSession	atis2	Krasnoyarsk-Radar
+LastSession	atis3	Sector Radar from GND to FL070
+LastSession	atis4	Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+Plugins	Plugin1Display2	Ground Radar display
+RecentFiles	Recent1	\UNKL\ASR\CTR\Krasnoyarsk.asr
+LastSession	realname	Alexandr
+LastSession	certificate	1720655
+LastSession	password	AmericAno98453698
+Plugins	Plugin0Display1	Standard ES radar screen

@@ -1,0 +1,14 @@
+UNKL_CTR Krasnoyarsk Control
+UNKL_S_CTR Krasnoyarsk South Control
+UNKL_N_CTR Krasnoyarsk North Control
+UNKL_APP Krasnoyarsk Approach
+UNKL_R_APP Krasnoyarsk Radar
+UNKL_TWR Krasnoyarsk Tower
+UNKL_GND Krasnoyarsk Ground
+UOOO_R_APP Norilsk Radar
+UOOO_TWR Norilsk Tower
+UOOO_GND Norilsk Ground
+UNAA_R_APP Abakan Radar
+UNAA_TWR Abakan Tower
+UOII_APP Igarka Podkhod
+UNKY_TWR Kyzyl Tower

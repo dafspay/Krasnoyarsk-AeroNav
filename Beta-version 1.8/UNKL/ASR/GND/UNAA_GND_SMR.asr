@@ -1,0 +1,50 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+PLUGIN:TopSky plugin:NoDraw:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\User\Desktop\UNKL v3.0\UNKL-Development-Package_20240127120225-240101-0010.sct
+SECTORTITLE:UNKL-Development-Package_20240127120225-240101-0010.sct
+Airports:UNAA:name
+Airports:UNAA:symbol
+Free Text:UNAA Abakan_ground\1:freetext
+Free Text:UNAA Abakan_ground\10:freetext
+Free Text:UNAA Abakan_ground\11:freetext
+Free Text:UNAA Abakan_ground\12:freetext
+Free Text:UNAA Abakan_ground\13:freetext
+Free Text:UNAA Abakan_ground\14:freetext
+Free Text:UNAA Abakan_ground\15:freetext
+Free Text:UNAA Abakan_ground\16:freetext
+Free Text:UNAA Abakan_ground\2:freetext
+Free Text:UNAA Abakan_ground\2A:freetext
+Free Text:UNAA Abakan_ground\3:freetext
+Free Text:UNAA Abakan_ground\4:freetext
+Free Text:UNAA Abakan_ground\5:freetext
+Free Text:UNAA Abakan_ground\6:freetext
+Free Text:UNAA Abakan_ground\7:freetext
+Free Text:UNAA Abakan_ground\8:freetext
+Free Text:UNAA Abakan_ground\8A:freetext
+Free Text:UNAA Abakan_ground\9:freetext
+Free Text:UNAA Abakan_ground\A:freetext
+Free Text:UNAA Abakan_ground\B:freetext
+Free Text:UNAA Abakan_ground\C:freetext
+Free Text:UNAA Abakan_ground\D:freetext
+Free Text:UNAA Abakan_ground\F:freetext
+Free Text:UNAA Abakan_ground\G:freetext
+Free Text:UNAA Abakan_ground\RUNWAY 02:freetext
+Free Text:UNAA Abakan_ground\RUNWAY 20:freetext
+Geo:UNAA Abakan_Ground:
+Regions:ABG Abakan Ground:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:66.00000
+TAGFAMILY:Sim
+WINDOWAREA:53.726571:91.345816:53.752236:91.429437
