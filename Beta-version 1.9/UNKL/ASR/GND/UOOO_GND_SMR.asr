@@ -1,0 +1,47 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:UOOO:name
+Airports:UOOO:symbol
+Free Text:UOOO Norilsk_ground\1:freetext
+Free Text:UOOO Norilsk_ground\10:freetext
+Free Text:UOOO Norilsk_ground\11:freetext
+Free Text:UOOO Norilsk_ground\12:freetext
+Free Text:UOOO Norilsk_ground\12A:freetext
+Free Text:UOOO Norilsk_ground\13:freetext
+Free Text:UOOO Norilsk_ground\2:freetext
+Free Text:UOOO Norilsk_ground\3:freetext
+Free Text:UOOO Norilsk_ground\4:freetext
+Free Text:UOOO Norilsk_ground\5:freetext
+Free Text:UOOO Norilsk_ground\6:freetext
+Free Text:UOOO Norilsk_ground\7:freetext
+Free Text:UOOO Norilsk_ground\8:freetext
+Free Text:UOOO Norilsk_ground\9:freetext
+Free Text:UOOO Norilsk_ground\A:freetext
+Free Text:UOOO Norilsk_ground\A13:freetext
+Free Text:UOOO Norilsk_ground\B:freetext
+Free Text:UOOO Norilsk_ground\C:freetext
+Free Text:UOOO Norilsk_ground\D:freetext
+Free Text:UOOO Norilsk_ground\E:freetext
+Free Text:UOOO Norilsk_ground\F:freetext
+Free Text:UOOO Norilsk_ground\RUNWAY 01:freetext
+Free Text:UOOO Norilsk_ground\RUNWAY 19:freetext
+Geo:UOOO Norilsk_Ground:
+Regions:NAG Norilsk Ground:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:338.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:56.168258:92.443373:56.190684:92.517858
+PLUGIN:vSMR:Airport:UOOO
