@@ -32,8 +32,8 @@ Settings	SettingsfileTAKEOFF	\UNKL\Settings\TakeoffList.txt
 Settings	SettingsfileADCS	\UNKL\Settings\ADCSectorList.txt
 Settings	SettingsfileTAXIIN	\UNKL\Settings\TaxiinList.txt
 Settings	SettingsfileSCREEN	\UNKL\Settings\Screen.txt
-TeamSpeakVccs	TsVccsMiniControlX	1725
-TeamSpeakVccs	TsVccsMiniControlY	59
+TeamSpeakVccs	TsVccsMiniControlX	1465
+TeamSpeakVccs	TsVccsMiniControlY	60
 TeamSpeakVccs	Ts3DialogLeft	651
 TeamSpeakVccs	Ts3DialogTop	129
 TeamSpeakVccs	Ts3DialogRight	1759
@@ -41,7 +41,7 @@ TeamSpeakVccs	Ts3DialogBottom	784
 LastSession	server	AUTOMATIC
 TeamSpeakVccs	Ts3G2APtt	1900544
 TeamSpeakVccs	Ts3G2GPtt	2752512
-TeamSpeakVccs	Ts3NickName	1461151
+TeamSpeakVccs	Ts3NickName	-
 TeamSpeakVccs	PlaybackMode	Windows Audio Session
 TeamSpeakVccs	PlaybackDevice	PHL 223V7 (NVIDIA High Definition Audio)
 TeamSpeakVccs	CaptureMode	Windows Audio Session
@@ -74,33 +74,31 @@ Sounds	Sound15	\UNKL\Sounds\new_atis.wav
 Sounds	Sound16	\UNKL\Sounds\handoff_request.wav
 Sounds	Sound17	\UNKL\Sounds\pointout.wav
 Sounds	Sound18	\UNKL\Sounds\startup.wav
-LastSession	ScenarioTemplate	C:\Users\user\Desktop\UNKL_TWR.txt
 RecentFiles	Recent2	\UNKL\ASR\GND\UNKL_GND_SMR.asr
 RecentFiles	Recent3	\UNKL\ASR\GND\UOOO_GND_SMR.asr
 RecentFiles	Recent4	\UNKL\ASR\GND\UNAA_GND_SMR.asr
-RecentFiles	Recent5	\UNKL\ASR\GND\UNTT_GND_SMR.asr
-RecentFiles	Recent6	\UNKL\ASR\CTR\Novosibirsk.asr
 LastSession	atis_freq4	118000
 Plugins	Plugin0	\UNKL\Plugins\TopSky\TopSky.dll
-RecentFiles	Recent7	\UNKL\ASR\GND\UNEE_GND_SMR.asr
-Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display0	SMR radar display
 LastSession	callsign	XX_OBS
 Plugins	Plugin1	\UNKL\Plugins\vSMR-1.5\vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin1Display1	Standard ES radar screen
-LastSession	atis_freq0	131300
+LastSession	atis_freq0	118000
 LastSession	atis_callsign0	UNKL_ATIS
 LastSession	atis_freq3	118000
 Plugins	Plugin2	\UNKL\Plugins\ESTimers\ESTimers.dll
+LastSession	atis_letter0	65
+LastSession	atis_message0	
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin2Display1	Standard ES radar screen
-Settings	sector	\UNKL-Development-Package_20240303210136-240201-0019.sct
-RecentFiles	Recent8	\UNKL\ASR\GND\UNWW_GND_SMR.asr
+Settings	sector	\UNKL-Development-Package_20240305204027-240201-0022.sct
 LastSession	atis2	Observer
 LastSession	atis3	Observer
 LastSession	atis4	Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
 Plugins	Plugin1Display2	Ground Radar display
 RecentFiles	Recent1	\UNKL\ASR\CTR\Krasnoyarsk.asr
-LastSession	realname	S
-LastSession	certificate	S
-LastSession	password	S
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin3	\UNKL\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin3Display0	SMR radar display
+Plugins	Plugin3Display1	Standard ES radar screen

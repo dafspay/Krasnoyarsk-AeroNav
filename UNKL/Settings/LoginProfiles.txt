@@ -1,5 +1,5 @@
 PROFILE
-PROFILE:RU-ESC_FSS:1500:2
+PROFILE:RU-ESC_FSS:1500:1
 ATIS2:Siberia-Control
 ATIS3:Sector Siberia from GND to UNL
 ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
@@ -60,7 +60,7 @@ PROFILE:UNKY_TWR:150:5
 ATIS2:Kyzyl-Tower
 ATIS3:Sector Tower from GND to FL170
 ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
-PROFILE:XX_OBS:300:6
+PROFILE:XX_OBS:300:0
 ATIS2:Observer
 ATIS3:Observer
 ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc

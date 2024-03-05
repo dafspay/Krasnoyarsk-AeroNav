@@ -1,6 +1,6 @@
-DisplayTypeName:Standard ES radar screen
-DisplayTypeNeedRadarContent:1
-PLUGIN:TopSky plugin:NoDraw:1
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
@@ -48,4 +48,5 @@ DISABLEZOOMING:0
 DisplayRotation:338.00000
 TAGFAMILY:Matias (built in)
 WINDOWAREA:56.168258:92.443373:56.190684:92.517858
+PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:Airport:UNAA
